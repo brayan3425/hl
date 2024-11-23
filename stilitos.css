@@ -1,0 +1,79 @@
+body {
+background-color: rgb(147, 184, 238);
+font-size: xx-large;
+text-align: center;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+button{
+    font-size: xx-large;
+    
+        background-color: #ffffff;
+        color: #000000;
+        padding: 10 px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+
+    
+
+    }
+button:hover{
+        background-color: #3838ec;
+        color: #ffffff;
+}
+.brayan{
+    font-size: xx-large;
+    
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10 px 20px;
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.brayan:hover{
+    background-color: #85f3a4;
+    color: #000000;
+}
+.boton{
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10 px 20px;
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+    .boton:hover{
+        background-color: #3838ec;
+        color: #ffffff;
+}
+.brayan1{
+    font-size: xx-large;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10 px 20px;
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.brayan1:hover{
+    background-color: #f07272;
+    color: #000000;
+}
+select{
+    font-size: xx-large;
+}
+th{
+    border : 5px solid  rgb(98, 98, 255);
+    background : rgb(98, 98, 255);
+    text-shadow: rgb(255, 255, 255);  
+    width: 10%;
+     }
+.brayan2{
+        font-size: xx-large;
+}
